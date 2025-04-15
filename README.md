@@ -1,2 +1,2 @@
 # Alzheimer-Early-Detection
-This repository contains my files for my research project focusing on detecting Alzheimer's disease early using optical coherence tomography images. 
+This repository contains my files for my research project focusing on detecting Alzheimer's disease early using optical coherence tomography images. Alzheimer's disease is truly insidious because there's no "cure," which means detecting the disease early can seriously improve patient outcomes. Using OCT scans for three linked conditions to Alzheimer's, I developed my own anomaly detection pipeline to flag Alzheimer's early. 
